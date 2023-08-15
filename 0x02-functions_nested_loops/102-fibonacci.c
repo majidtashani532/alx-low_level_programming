@@ -8,7 +8,7 @@
 * Return: Always 0 (success)
 */
 
-int mani(void)
+int main(void)
 {
 	int count;
 	unsigned long fib1 = 0, fib2 = 1, sum;
